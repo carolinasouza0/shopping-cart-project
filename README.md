@@ -1,5 +1,6 @@
 # Projeto de um carrinho de compras dinâmico, consumindo dados da API do Mercado Livre.
 
+![Aplicação](/images/shopping_cart_project.mp4)
 # Requisitos Obrigatórios
 
 ## 1. (TDD) Desenvolva testes de no mínimo 50% de cobertura das funções e linhas do arquivo `fetchFunctions`
